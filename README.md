@@ -6,6 +6,6 @@
  |  _  |  __/ | | (_) \ V  V / (_) | |  | | (_| |
  |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
 ```
-![zh-Spike's github stats](https://github-readme-stats.vercel.app/api?username=intmian&show_icons=true&theme=onedark&count_private=true&hide=contribs)
+![zh-Spike's github stats](https://github-readme-stats.vercel.app/api?username=intmian&show_icons=true&theme=default&count_private=true&hide=contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intmian&hide=html,JavaScript&layout=compact&theme=onedark)](https://github.com/zh-Spike/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intmian&hide=html,JavaScript&theme=default)](https://github.com/zh-Spike/github-readme-stats)
