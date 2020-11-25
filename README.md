@@ -8,11 +8,11 @@
 ```
 [mian@mian-sever ~]$cat blog
 
------BEGIN CERTIFICATE-----
+-----BEGIN BLOG-----
 
 ELF>大约在2020年左右，中国著名混者面面（mian）在阅读库克(Cook，S.A.)于1971年提出的《可满足性问题》小学拼音译本时，曾在他的github主页第4294967295行第{object not found}列旁写道：“所有的非确定性多项式时间可解的判定问题都可以转化为可以在多项式时间内求解的判定问题。关于此，我确信已发现了一种美妙的证法 ，可惜这里空白的地方太小，写不下▒R@@أ@8     @"!@@@@@▒88@8@@@
 
------END CERTIFICATE-----
+-----END BLOG-----
 
 [mian@mian-sever ~]$cat more
 
