@@ -1,19 +1,26 @@
-### 你好👋
-```
-  _   _      _ _    __        __         _     _ 
- | | | | ___| | | __\ \      / /__  _ __| | __| |
- | |_| |/ _ \ | |/ _ \ \ /\ / / _ \| '__| |/ _` |
- |  _  |  __/ | | (_) \ V  V / (_) | |  | | (_| |
- |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
-```
-[mian@mian-sever ~]$cat blog
+<div align="center">
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
------BEGIN BLOG-----
+# Hello👋, I am mian!👨‍🎓
 
-ELF>大约在2020年左右，中国著名混者面面（mian）在阅读库克(Cook，S.A.)于1971年提出的《可满足性问题》小学拼音译本时，曾在他的github主页第4294967295行第{object not found}列旁写道：“所有的非确定性多项式时间可解的判定问题都可以转化为可以在多项式时间内求解的判定问题。关于此，我确信已发现了一种美妙的证法 ，可惜这里空白的地方太小，写不下▒R@@أ@8     @"!@@@@@▒88@8@@@
+This is my [Blog](https://www.intmian.com)🏠 
 
------END BLOG-----
+My **Chinese name** is `HIDE`🤦‍♂️
 
-[mian@mian-sever ~]$cat more
+I am a **amateur** programmer  and **coding** lover⌨
 
-Segmentation fault(core dumped)
+School at **HDU**，Major in **information security**💻
+
+I love **solving problem using coding and some useless habits** ❤️
+
+Just end some **exam** and **rest**👀
+
+If you want to **attach** me, please **email** to `hztlfjy@gmail.com`📫
+
+## What I can do✔ 
+
+- **c++**、**python**、**Golan**
+- web development(**end-back** and a little **front-back**)
+- **sql** and **docker**
+- little **Algorithms**
+</div>
