@@ -19,8 +19,11 @@ If you want to **attach** me, please **email** to `hztlfjy@gmail.com`📫
 
 ## What I can do✔ 
 
-- **c++**、**python**、**Golan**
-- web development(**end-back** and a little **front-back**)
-- **sql** and **docker**
-- little **Algorithms**
+**c++**、**python**、**Golan**
+
+web development(**end-back** and a little **front-back**)
+
+**sql** and **docker**
+
+little **algorithms**
 </div>
