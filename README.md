@@ -7,11 +7,11 @@ This is my [Blog](https://www.intmian.com)🏠
 
 My **Chinese name** is `HIDE`🤦‍♂️
 
-I am a **amateur** programmer  and **coding** lover⌨
+I am a amateur **programmer**  and **coding** lover⌨
 
 School at **HDU**，Major in **information security**💻
 
-I love **solving problem using coding and some useless habits** ❤️
+I love **solving problem using code and some useless things** ❤️
 
 Just end some **exam** and **rest**👀
 
