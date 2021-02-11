@@ -13,7 +13,7 @@ School at **HDU**，Major in **information security**💻
 
 I love **solving problem using code and some useless things** ❤️
 
-Just end some **exam** and **rest**👀
+Just end some **exams** and **prepare** for more exams👀
 
 If you want to **attach** me, please **email** to `hztlfjy@gmail.com`📫
 
