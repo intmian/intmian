@@ -3,27 +3,5 @@
 
 # Hello👋, I am mian!👨‍🎓
 
-This is my [Blog](https://www.intmian.com)🏠 
-
-My **Chinese name** is `HIDE`🤦‍♂️
-
-I am a amateur **programmer**  and **coding** lover⌨
-
-School at **HDU**，Major in **information security**💻
-
-I love **solving problem using code and some useless things** ❤️
-
-Just end some **exams** and **prepare** for more exams👀
-
-If you want to **attach** me, please **email** to `hztlfjy@gmail.com`📫
-
-## What I can do✔ 
-
-**c++**、**python**、**Golan**
-
-web development(**end-back** and a little **front-back**)
-
-**sql** and **docker**
-
-little **algorithms**
+按照道理我应该在这里整一点花活，但是我太懒了。
 </div>
