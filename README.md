@@ -1,4 +1,11 @@
 <div align="center">
-<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img align="center" alt="GIF" height="50px" weight="50px"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</div>
+Hi there 👋
 
-## 按照道理我应该在这里整一点花活，但是我太懒了。
+- 🔭 coding for fun
+- 🌱 learning Anything I wanna learn
+- 🧭 focusing on creating what I need but the world doesn't have
+- 💬 Ask me about Anything I can Help
+- 📫 How to reach me: hztlfjy@gmail.com
+- 🌍 Welcome to https://www.intmian.com
