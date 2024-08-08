@@ -3,9 +3,14 @@
 </div>
 Hi there 👋
 
-- 🔭 coding for fun
-- 🌱 learning Anything I wanna learn
-- 🧭 focusing on creating what I need but the world doesn't have
+## for me
+
+- 🔭 code for fun
+- 🌱 learn Anything I wanna learn
+- 🧭 focus on creating what I need but the world doesn't have
+
+## for visitor
+
 - 💬 Ask me about Anything I can Help
 - 📫 How to reach me: hztlfjy@gmail.com
 - 🌍 Welcome to https://www.intmian.com
