@@ -7,7 +7,7 @@ Hi there 👋
 
 - 🔭 code for fun
 - 🌱 learn Anything I wanna learn
-- 🧭 focus on creating what I need but the world doesn't have
+- 🧭 focus on creating what I need but what doesn't exist in the world.
 
 ## for visitor
 
