@@ -3,7 +3,7 @@
 </div>
 Hi there 👋
 
-## For Me
+## About Me
 
 - 🔭 Coding for fun
 - 🌱 Learning anything I want to learn
