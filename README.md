@@ -12,5 +12,5 @@ Hi there 👋
 ## For Visitors
 
 - 💬 Ask me about anything I can help with
-- 📫 How to reach me: master@intmian.com
+- 📫 How to reach me: admin@intmian.com
 - 🌍 Visit my website: [https://www.intmian.com](https://www.intmian.com)
